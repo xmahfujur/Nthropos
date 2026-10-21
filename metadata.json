@@ -1,0 +1,6 @@
+{
+  "name": "Nthropos — Frontier AI Research & Engineering",
+  "description": "Nthropos is an AI company exploring the frontier of intelligent systems, generative AI, LLMs, and practical AI engineering to expand human capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
